@@ -38,6 +38,23 @@ Routine directory listings, search-result snippets, scraped mirrors, duplicate s
 
 ## Newly found mentions
 
+### High — Happier Lives Institute public response to the psychotherapy evaluation
+
+**Source date:** published 25 June 2025; subsequently promoted on LinkedIn; discovered 4 August 2026.
+
+Happier Lives Institute published a detailed public response to The Unjournal’s evaluation of its StrongMinds and Friendship Bench psychotherapy report. The response links the evaluation summary and both evaluator reports, uses Unjournal ratings data to benchmark the paper against other evaluated work, credits the review process with distinctive utility beyond conventional journal review, and gives point-by-point substantive replies to the evaluators. HLI’s LinkedIn post promoted the same response and said the feedback was already being used to strengthen future work; that promotion is treated as part of this single canonical item rather than a separate entry.
+
+- [View HLI's public response](https://www.happierlivesinstitute.org/report/the-happier-lives-institutes-public-response-to-the-unjournals-evaluation-of-our-psychotherapy-report/)
+- [View HLI's LinkedIn promotion](https://www.linkedin.com/posts/happierlivesinstitute_mentalhealth-wellbeing-impactevaluation-activity-7345787656938622976-FR8V)
+
+### Medium — Statistical Modeling introduction to the Unjournal concept
+
+**Source date:** published 13 June 2022; discovered 4 August 2026.
+
+Andrew Gelman’s *Statistical Modeling, Causal Inference, and Social Science* blog introduced the then-new Unjournal proposal to its statistics and social-science readership. Gelman connected it to his own proposals for journals as recommender systems and post-publication review, and described himself as sympathetic to the effort. This is distinct from the later 2025 update already recorded below.
+
+- [View the blog post](https://statmodeling.stat.columbia.edu/2022/06/13/unjournal-action-plan-writing-resources/)
+
 ### Low — Agentic political-science benchmark comparison
 
 **Source date:** repository file modified 27 May 2026; discovered 20 July 2026.
@@ -83,6 +100,7 @@ Cannon Cloud's public repository for a *Nature* Matters Arising manuscript state
 
 ## Maintenance log
 
+- **4 August 2026:** Added Happier Lives Institute's detailed public response as a High-importance author-side reuse item and Andrew Gelman’s 2022 introduction as a distinct Medium-importance mention.
 - **20 July 2026:** Added a third-party GitHub comparison that attributes a reused I4R benchmark to Yale, Brown, and The Unjournal.
 - **19 July 2026:** Added the PLOS Biology consensus view identifying The Unjournal as a relevant preprint-review service.
 - **18 July 2026:** Added Andrew Gelman’s Statistical Modeling blog post publicizing and discussing The Unjournal.
